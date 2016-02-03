@@ -216,3 +216,6 @@
 .c-mainBody {
   font-family: 'Open Sans', sans-serif !important;
 }
+.c-projectLink {
+  border: 4px solid lightgray;
+}
